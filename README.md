@@ -112,7 +112,7 @@
 - They're hundreds of failed logins and we can see them using different usernames
 <p align="center">
   
-<img src="\https://user-images.githubusercontent.com/104326475/177060366-f5d1c3c7-6e82-482c-a608-4500460955ea.png" height="155%" width="155%" alt="Resource Locks"/>
+<img src="https://user-images.githubusercontent.com/104326475/177060366-f5d1c3c7-6e82-482c-a608-4500460955ea.png" height="155%" width="155%" alt="Resource Locks"/>
 
 <p/>
 
