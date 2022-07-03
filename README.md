@@ -93,7 +93,7 @@
 <p/>
 
 # Add the demovm machine and select create
-
+- This will create a data collection rule where data will be collected from Azure VM and be passed onto Azure Sentinel.
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/177051511-bd214c31-27b5-459a-91f4-83f2257d4d17.png" height="155%" width="155%" alt="Resource Locks"/>
