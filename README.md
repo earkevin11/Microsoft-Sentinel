@@ -118,4 +118,19 @@
 
 
 # Microsot Sentinel - Azure Firewall Connector
-- 
+- Find the Firewall connector within Sentinel
+- Select "Add diagnostic setting"
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177060973-73e51eb4-7c40-44d3-bda6-d09ef1c33656.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
+# Azure Firewall Diagnostic Settings Configuration
+- Select the LAW you want the data from Firewall to be sent to
+- Select all logs and select save
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177060987-b431ae90-8834-4b72-9f91-71b0857589c7.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
