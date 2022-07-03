@@ -52,6 +52,13 @@
 
 <p/>
 
+# Data streaned from Azure Monitor to LAW
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177050373-4ded8c51-a688-461a-a789-134c271820ae.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
 
 
 
