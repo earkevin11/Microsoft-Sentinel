@@ -100,6 +100,22 @@
 
 <p/>
 
+# Microsoft Sentinel Overview Pane - showing events triggered
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177060320-e8378cbf-85e8-4a41-a82e-3d26541fb4c0.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
+# Review the events from Security logs within Event Viewer
+- We can see here the number of users trying to break into demovm
+- They're hundreds of failed logins and we can see them using different usernames
+<p align="center">
+  
+<img src="\https://user-images.githubusercontent.com/104326475/177060366-f5d1c3c7-6e82-482c-a608-4500460955ea.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
 
 # Microsot Sentinel - Azure Firewall Connector
 - 
