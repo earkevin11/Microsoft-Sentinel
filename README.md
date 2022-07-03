@@ -68,3 +68,34 @@
 # Go to your LAW created and connect Azure AD Connector
 - Select Sign-in and Audit logs and apply changes
 - Ensure to create some new users or groups, delete groups or users so that the LAW can collect that and stream into Sentinel.
+
+
+
+
+# Microsoft Sentinel - Windows Event Viewer Connector
+- We want to collect Security events from our Windows Logs frmo our demovm virtual machine
+- From our LAW, navigate to Virtual Machines, and connect the demovm.
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177051240-230cde99-f8a5-4a78-8c88-ddebd2804700.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
+# Install the Windows Security Events connector via Sentinel
+- Open the connector page 
+- Select "Create data collection rule"
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177051398-d7bc924e-b918-4f0e-acc2-f1fc9cf6b7fe.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
+
+# Add the demovm machine and select create
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177051511-bd214c31-27b5-459a-91f4-83f2257d4d17.png" height="155%" width="155%" alt="Resource Locks"/>
+
+<p/>
