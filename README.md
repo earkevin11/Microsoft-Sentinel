@@ -60,3 +60,4 @@
 
 # Go to your LAW created and connect Azure AD Connector
 - Select Sign-in and Audit logs and apply changes
+- Ensure to create some new users or groups, delete groups or users so that the LAW can collect that and stream into Sentinel.
