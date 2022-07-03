@@ -55,3 +55,8 @@
 
 
 
+# Microsoft Sentinel - Azure AD Connector
+- Goal is to stream data from our Sign-in and Audit logs to a LAW.
+
+# Go to your LAW created and connect Azure AD Connector
+- Select Sign-in and Audit logs and apply changes
