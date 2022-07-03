@@ -129,6 +129,7 @@
 # Azure Firewall Diagnostic Settings Configuration
 - Select the LAW you want the data from Firewall to be sent to
 - Select all logs and select save
+- Now all the data from the Firewall will be sent to Sentinel
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/177060987-b431ae90-8834-4b72-9f91-71b0857589c7.png" height="155%" width="155%" alt="Resource Locks"/>
